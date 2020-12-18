@@ -1,0 +1,10 @@
+2020-12-18 12:30:40.258 example_test.go 11 info
+2020-12-18 12:30:40.258 example_test.go 12 debug
+2020-12-18 12:30:40.258 example_test.go 13 access
+2020-12-18 12:30:40.258 example_test.go 14 trace
+2020-12-18 12:30:40.258 example_test.go 15 warn
+2020-12-18 12:30:40.258 example_test.go 16 error
+2020-12-18 12:34:06.667 example_test.go 11 info
+2020-12-18 12:34:06.667 example_test.go 13 access
+2020-12-18 12:34:06.667 example_test.go 15 warn
+2020-12-18 12:34:06.667 example_test.go 16 error

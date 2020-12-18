@@ -1,4 +1,4 @@
-package llog
+package example
 
 import "fmt"
 
@@ -18,6 +18,6 @@ const (
 type Color uint8
 
 // add adds the coloring to the given string.
-func (c Color) Add(s string) string {
+func (c Color) contain(s string) string {
 	return fmt.Sprintf("\x1b[%dm%s\x1b[0m", uint8(c), s)
 }

@@ -1,18 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dce6a32c-c991-4262-9249-e4a9a8801e33" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="dce6a32c-c991-4262-9249-e4a9a8801e33" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/example_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/level.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/printer.console.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/printer.file.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/printer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/color.go" beforeDir="false" afterPath="$PROJECT_DIR$/example/color.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constant.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logger.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logger.mgr.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logger_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputer.console.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputer.file.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputer.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util.go" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="GOROOT" path="$USER_HOME$/sdk/go" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/go/go1.15.2" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZLGALbYmFtNWKgndtYWEor54i1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
@@ -20,24 +62,81 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/example" />
+      <recent name="$PROJECT_DIR$/old" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RunManager" selected="Go Test.TestFileLogger in github.com/fumeboy/llog/example">
+    <configuration name="TestFileLogger in github.com/fumeboy/llog" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="llog" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/fumeboy/llog" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestFileLogger$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestFileLogger in github.com/fumeboy/llog/example" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="llog" />
+      <working_directory value="$PROJECT_DIR$/example" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/fumeboy/llog/example" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestFileLogger$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="Go Test.TestFileLogger in github.com/fumeboy/llog/example" />
+        <item itemvalue="Go Test.TestFileLogger in github.com/fumeboy/llog" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="https://mirrors.aliyun.com/goproxy/" />
+      </map>
+    </environment>
     <proxy>https://mirrors.aliyun.com/goproxy/</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="760" y="477" key="#GOROOT" timestamp="1608205013843">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="760" y="477" key="#GOROOT/0.0.1920.1080@0.0.1920.1080" timestamp="1608205013843" />
+    <state x="656" y="349" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608216876204">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="656" y="349" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1608216876204" />
+    <state width="1878" height="298" key="GridCell.Tab.0.bottom" timestamp="1608266045787">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1608266045787" />
+    <state width="1878" height="298" key="GridCell.Tab.0.center" timestamp="1608266045786">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="298" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1608266045786" />
+    <state width="1878" height="298" key="GridCell.Tab.0.left" timestamp="1608266045785">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="298" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1608266045785" />
+    <state width="1878" height="298" key="GridCell.Tab.0.right" timestamp="1608266045786">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="298" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1608266045786" />
+    <state x="787" y="313" key="refactoring.ChangeSignatureDialog" timestamp="1608265296657">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="787" y="313" key="refactoring.ChangeSignatureDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1608265296657" />
   </component>
 </project>
